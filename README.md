@@ -1,0 +1,2 @@
+# zezemap
+Individual exercises
